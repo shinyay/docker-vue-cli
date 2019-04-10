@@ -4,6 +4,8 @@ Overview
 
 ## Description
 
+- [shinyay/vue-cli](https://cloud.docker.com/repository/docker/shinyay/vue-cli)
+
 ## Demo
 
 ## Features
